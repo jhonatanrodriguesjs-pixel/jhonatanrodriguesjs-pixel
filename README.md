@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 
 ## 👨‍💻 Sobre mim
@@ -36,7 +37,7 @@ No momento, estou estudando e aprimorando meus conhecimentos nas seguintes área
 - 🧩 **Versionamento com Git e GitHub** → controle de versões e colaboração em projetos  
 - 🖥️ **Desenvolvimento Front-End** → criação de sites funcionais e responsivos
   
-Gosto de aprender coisas novas e transformar ideias em projetos reais!
+Gosto de aprender coisas novas e transformar ideias em projetos reais! 
 
----
+
 
