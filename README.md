@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **jhonatanrodriguesjs-pixel/jhonatanrodriguesjs-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,9 +43,3 @@ Gosto de aprender coisas novas e transformar ideias em projetos reais!
 
 ---
 
-## 💡 Habilidades em aprendizado  
-- 🌐 HTML  
-- 🎨 CSS  
-- ⚙️ JavaScript  
-- 🧠 Lógica de programação  
-- 🖥️ Desenvolvimento Front-End  
